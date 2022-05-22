@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=MinjaeKim&fontSize=70)
 🇰🇷
 <h3 align="center">📚Tech Stack📚</h3>
-<h3>https://img.shields.io/badge/%23F7DF1E-JavaScript-yellow</h3>
+<img src = "https://img.shields.io/badge/%23F7DF1E-JavaScript-yellow" /></a>&nbsp
 <!--
 **imb96/imb96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
