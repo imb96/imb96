@@ -2,7 +2,7 @@
 
 <p align = "center">🇰🇷</p>
 
-<h3 align="center">📚Tech Stack📚</h3>
+<h3 align="center">Skills</h3>
 
 <p align = "center">
   <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp
