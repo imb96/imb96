@@ -1,8 +1,8 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=MinjaeKim&fontSize=70)
+![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&section=header&text=MinjaeKim&fontSize=70)
 
 <p align = "center">🇰🇷</p>
 
-<h3 align="center">Skills</h3>
+<h1 align="center">Skills</h1>
 
 <p align = "center">
   <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp
