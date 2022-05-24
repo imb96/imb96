@@ -1,4 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=100&section=header&text=MinjaeKim&fontSize=50)
+<!-- ![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=100&section=header&text=MinjaeKim&fontSize=50) -->
+👋Hey there! I'm Minjae Kim
 
 <p align = "center">🇰🇷</p>
 
