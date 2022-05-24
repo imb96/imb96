@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&section=header&text=MinjaeKim&fontSize=70)
+![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=100&section=header&text=MinjaeKim&fontSize=50)
 
 <p align = "center">🇰🇷</p>
 
