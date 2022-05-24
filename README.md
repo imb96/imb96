@@ -1,14 +1,5 @@
 <!-- ![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=100&section=header&text=MinjaeKim&fontSize=50) -->
-👋Hey there! I'm Minjae Kim
-
-<p align = "center">🇰🇷</p>
-
-<h1 align="center">Skills</h1>
-
-<p align = "center">
-  <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp
-</p>
-
+<h2>👋Hey there!</h2>
 <!--
 **imb96/imb96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
