@@ -3,7 +3,6 @@ Hi, there 👋
 - Front-End Developer
 - kimminje7810@gmail.com
 - [blog](https://imb96.github.io)
-- [resume](http://imb96.notion.site/7339b6aa7021447cbe48ceb78d851414?pvs=74)
 
 <!--
 **imb96/imb96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
