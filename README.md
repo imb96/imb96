@@ -2,7 +2,7 @@
 Hi, there 👋<br/>
 I'm Front-End Engineer
 
-[📋 Resume](https://www.rallit.com/resumes/24900@kimminje7810/%EA%B9%80%EB%AF%BC%EC%9E%AC?theme=STANDARD)
+[📋 Resume](https://imb96.notion.site/db986aacffd94996ba9ca8dd63dff8c5)
 
 <div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" /></div>
 
