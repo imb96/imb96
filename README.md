@@ -1,8 +1,7 @@
 <div align="center">
-Hi, there 👋<br/>
-I'm Front-End Engineer
+Hi, there 👋
 
-[📋 Resume](https://imb96.notion.site/db986aacffd94996ba9ca8dd63dff8c5)
+[Resume](https://imb96.notion.site/db986aacffd94996ba9ca8dd63dff8c5) | [Blog](https://imb96.github.io/) | [Linkedin](https://www.linkedin.com/in/%EB%AF%BC%EC%9E%AC-%EA%B9%80-0415a1246/)
 
 <div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" /></div>
 
