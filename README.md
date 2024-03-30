@@ -1,13 +1,15 @@
-<div align="center">
+<div>
 Hi, there 👋
 
-[Resume](https://imb96.notion.site/db986aacffd94996ba9ca8dd63dff8c5) | [Blog](https://imb96.github.io/) | [Linkedin](https://www.linkedin.com/in/%EB%AF%BC%EC%9E%AC-%EA%B9%80-0415a1246/)
+- [Resume](https://imb96.notion.site/db986aacffd94996ba9ca8dd63dff8c5)
+- [Blog](https://imb96.github.io/)
+- [Linkedin](https://www.linkedin.com/in/%EB%AF%BC%EC%9E%AC-%EA%B9%80-0415a1246/)
+
+<!--
 
 <div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" /></div>
 
 ![Anurag’s GitHub stats](https://github-readme-stats.vercel.app/api?username=imb96&show_icons=true&theme=dracula)
-
-<!--
 **imb96/imb96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imb96&layout=compact&theme=dark)
 Here are some ideas to get you started:
