@@ -1,7 +1,6 @@
 <div>
 Hi, there 👋
 
-- [Resume](https://imb96.notion.site/db986aacffd94996ba9ca8dd63dff8c5)
 - [Blog](https://imb96.github.io/)
 - [Linkedin](https://www.linkedin.com/in/%EB%AF%BC%EC%9E%AC-%EA%B9%80-0415a1246/)
 
