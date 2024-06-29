@@ -2,7 +2,7 @@
   <div align="center">
     Hi, there 👋
     
-[Blog](https://geurim.dev/) | [Linkedin](https://www.linkedin.com/in/%EB%AF%BC%EC%9E%AC-%EA%B9%80-0415a1246/)
+[Blog](https://geurim.dev/) | [Linkedin](www.linkedin.com/in/geurim)
   </div>
 <!--
 
