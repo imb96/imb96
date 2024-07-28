@@ -2,7 +2,7 @@
   <div align="center">
     Hi, there 👋
     
-[Blog](https://minja222.tistory.com/) | [Linkedin](https://www.linkedin.com/in/geurim)
+[Blog](https://medium.com/@geurim) | [Linkedin](https://www.linkedin.com/in/geurim)
   </div>
 <!--
 
