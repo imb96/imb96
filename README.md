@@ -1,8 +1,8 @@
 <div>
   <div align="center">
-    Hi, there 👋
-    
-[Blog](https://medium.com/@geurim) | [Linkedin](https://www.linkedin.com/in/geurim)
+    <h2>
+    Frontend Developer
+    </h2>
 <p>
   <div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" /></div>
 
