@@ -1,15 +1,15 @@
 <div>
   <div align="center">
-    <h2>
-    Frontend Developer
-    </h2>
+    <h2>Frontend Developer</h2>
+    <div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" /></div>
     <a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/lines/imb96?pet-id=1" width="1000" height="120"/>
-</a>
+      <img src="https://render.gitanimals.org/farms/imb96"/>
+    </a>
 <p>
-  <div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" /></div>
-
+  
+<!--
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=imb96" alt="GitHub Streak Stats" />
+    -->
 </p>
   <div>
     
