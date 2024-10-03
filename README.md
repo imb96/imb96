@@ -18,7 +18,10 @@
     <div>
       <div style="display: flex;">
         <a href="https://github.com/devxb/gitanimals">
-          <img align="right" src="https://render.gitanimals.org/lines/imb96?pet-id=624793670471384112"
+          <img
+            src="https://render.gitanimals.org/farms/imb96"
+            width="600"
+            height="300"
           />
         </a>
       </div>
