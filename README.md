@@ -1,8 +1,8 @@
 <a href="https://github.com/devxb/gitanimals">
 <img
   src="https://render.gitanimals.org/farms/imb96"
-  width="600"
-  height="300"
+  width="300"
+  height="150"
 />
 </a>
 
